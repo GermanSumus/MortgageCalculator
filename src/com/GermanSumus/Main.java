@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	/*
+    /*
      Collect user input. Principal, Rate, Years.
      Calculate mortgage payment.
      Print out mortgage payment.
