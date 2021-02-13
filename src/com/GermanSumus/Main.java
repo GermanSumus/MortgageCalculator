@@ -6,9 +6,11 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	// Collect user input. Principal, Rate, Years.
-    // Calculate mortgage payment.
-    // Print out mortgage payment.
+	/*
+     Collect user input. Principal, Rate, Years.
+     Calculate mortgage payment.
+     Print out mortgage payment.
+    */
         final byte TO_PERCENT = 100;
         final byte MONTHS_IN_YEAR = 12;
         float principal = 0;
